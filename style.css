@@ -1,0 +1,55 @@
+body{
+    background-color: bisque;
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    padding: 5vh; 
+    font-size: 3vw;
+    background-color: tomato;
+
+}
+.colunm{
+    margin-top: 5vh;
+    background-color: Orange;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+input,textarea{
+    width: 400px;
+    border-radius: 5px;
+    padding: 6px;
+    font-size: 1.2vw;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    margin-left: 20%;
+}
+.button1{
+  background-color: rgb(59, 236, 65); 
+  border-radius: 5px;
+  color: rgb(12, 11, 11);
+  padding: 14px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-left: 18%;
+}
+.button0{
+  background-color: rgb(231, 38, 13); 
+}
+footer{
+    margin-top: 15vh;
+    text-align: center;
+    padding: 5vh; 
+    font-size: 2vw;
+    background-color: tomato;
+}
+label{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 140px;
+}
